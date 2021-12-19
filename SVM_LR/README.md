@@ -1,4 +1,4 @@
-# Assignment3 Sandy Hsiao  
+# Logistic Regression, Support Vector Machine 
 ### Preprocess 
 ``` 
 python3 preprocess-assg3.py dating-full.csv

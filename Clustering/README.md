@@ -1,4 +1,4 @@
-#Assignment5 Sandy Hsiao  
+# Clustering 
 ### Exploration 
 ``` 
 python3 exploration.py

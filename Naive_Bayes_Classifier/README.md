@@ -1,4 +1,4 @@
-# HW2 
+# Naive Bayes Classifier 
 ### Preprocess 
 ``` 
 python3 preprocess.py dating-full.csv dating.csv
